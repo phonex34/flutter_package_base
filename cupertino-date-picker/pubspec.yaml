@@ -5,10 +5,6 @@ author: Dylan Wu <dylanwuzh@gmail.com>
 homepage: https://github.com/wuzhendev/flutter-cupertino-date-picker
 
 dependencies:
-  flutter:
-    sdk: flutter
-
-flutter:
 
 environment:
   sdk: ">=1.19.0 <3.0.0"
